@@ -1,4 +1,4 @@
-![TinyTowns Logo](https://raw.githubusercontent.com/FinnehGames/Branding/main/tinytowns/logo/no-trans/logo600-200.png)
+![TinyTowns Logo](https://github.com/FinnehGames/Branding/blob/9c46632eaeee0341086584d6f9aac1c1848a4ff0/tinytowns/logo/no-trans/logo600-200.png?raw=true)
 # TinyTowns
 
 Welcome to the official repository of TinyTowns, an open-source initiative by FinnehGames that breathes new life into the cherished SmallWorlds experience. Our mission is to reconstruct the captivating universe of SmallWorlds, allowing players to once again create and manage their own miniature utopias.
