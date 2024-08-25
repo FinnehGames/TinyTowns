@@ -1,4 +1,4 @@
-<img width="600" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="TinyTowns Logo" src="https://github.com/FinnehGames/Branding/blob/9c46632eaeee0341086584d6f9aac1c1848a4ff0/tinytowns/logo/no-trans/logo600-200.png?raw=true"> 
+<img width="600" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="TinyTowns Logo" src="https://github.com/FinnehGames/Branding/main/tinytowns/logo/trans/logo600-200.png?raw=true"> 
 
 # TinyTowns
 ![GitHub top language](https://img.shields.io/github/languages/top/FinnehGames/TinyTowns?color=0072CE&style=for-the-badge)
